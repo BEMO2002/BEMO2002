@@ -1,61 +1,202 @@
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+# Hey 👋, I'm Mohamed Abdul Azeem Khder!
 
+<h3 align="center">
+Front-End Developer 🌐 | React & Next.js Enthusiast ⚛️
+</h3>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
+<p align="center">
+I build modern, scalable, and responsive web applications with clean UI and smooth user experience.
+</p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+---
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br>
+## 🧐 More About Me
 
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+- 💻 Front-End Developer focused on building production-level applications
+- ⚛️ Specialized in React.js & Next.js
+- 🎨 Passionate about responsive UI/UX and clean interfaces
+- 🚀 Experienced in integrating REST APIs and dynamic dashboards
+- 🔥 Interested in performance optimization and scalable architecture
+- 📱 Love creating modern web experiences across all devices
+- 🌱 Currently improving my skills in:
+  - Advanced React Patterns
+  - TypeScript
+  - Next.js Optimization
+  - Clean Architecture
+- 🤝 Open to freelance and collaboration opportunities
+- 💬 Ask me about:
+  - React.js
+  - Next.js
+  - Tailwind CSS
+  - JavaScript
+  - Responsive Design
+  - Front-End Architecture
 
-<br>
+---
 
+# 🚀 Tech Stack
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+## 👨‍💻 Front-End Development
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=redux" height="50"/>
+
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma" height="50"/>
+<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🏥 Insta Health
+### Integrated Medical Platform
+
+🔗 https://insta-health.net/
+
+### Features:
+- Doctor Booking System
+- Home Medical Services
+- Medical Tourism
+- Online Pharmacy
+- Labs & Radiology Booking
+- Responsive Dashboard
+- API Integration
+
+---
+
+## 🌍 Rehltna
+### Tourism & Travel Platform
+
+🔗 https://rehltna.com/ar
+
+### Highlights:
+- Responsive UI
+- Modern booking experience
+- Dynamic content sections
+- SEO-friendly pages
+
+---
+
+## ✈️ Rahal Egypt
+### Tourism Booking Platform
+
+🔗 https://rahal-egy.com/ar
+
+### Highlights:
+- Clean and modern interface
+- Mobile responsive layout
+- Optimized user experience
+
+---
+
+## 👨‍⚕️ Mohamed Talat
+### Medical Website
+
+🔗 https://mohamedtalat.com/ar
+
+### Highlights:
+- Professional medical presentation
+- Responsive design
+- Optimized layouts
+
+---
+
+## 🎓 WEMISC Academy
+
+🔗 https://academy.wemisc.net/ar
+
+Educational platform with modern and scalable UI implementation.
+
+---
+
+## 🏢 WEMISC Agency
+
+🔗 https://agency.wemisc.net/ar
+
+Digital agency website with modern branding and responsive experience.
+
+---
+
+## 💻 WEMISC IT
+
+🔗 https://it.wemisc.net/ar
+
+Technology solutions platform with scalable front-end architecture.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<br>
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+</p>
+
+---
+
+# 💡 Quote
+
+> “Great web experiences are built with attention to detail.”
