@@ -1,70 +1,49 @@
-# Hey 👋, I'm Mohamed Abdul Azeem Khder!
+# Hey 👋, I'm Mohamed Abdul Azeem Khder
 
 <h3 align="center">
-Front-End Developer 🌐 | React & Next.js Enthusiast ⚛️
+Frontend Engineer ⚛️ | React & Next.js Specialist 🚀
 </h3>
 
 <p align="center">
-I build modern, scalable, and responsive web applications with clean UI and smooth user experience.
+Building scalable, high-performance, and modern web experiences.
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Engineer;React+Developer;Next.js+Specialist;UI%2FUX+Focused;Building+Scalable+Applications&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=24"/>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BEMO2002&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🧐 More About Me
+# 🧠 About Me
 
-- 💻 Front-End Developer focused on building production-level applications
-- ⚛️ Specialized in React.js & Next.js
-- 🎨 Passionate about responsive UI/UX and clean interfaces
-- 🚀 Experienced in integrating REST APIs and dynamic dashboards
-- 🔥 Interested in performance optimization and scalable architecture
-- 📱 Love creating modern web experiences across all devices
-- 🌱 Currently improving my skills in:
-  - Advanced React Patterns
-  - TypeScript
-  - Next.js Optimization
-  - Clean Architecture
-- 🤝 Open to freelance and collaboration opportunities
-- 💬 Ask me about:
-  - React.js
-  - Next.js
-  - Tailwind CSS
-  - JavaScript
-  - Responsive Design
-  - Front-End Architecture
+* ⚛️ Frontend Engineer specialized in React.js & Next.js
+* 🎨 Passionate about clean UI/UX and responsive interfaces
+* 🚀 Building production-level scalable applications
+* 🔥 Focused on performance optimization & SEO
+* 📱 Creating smooth experiences across all devices
+* 🌱 Currently improving:
+
+  * Advanced React Patterns
+  * TypeScript
+  * Scalable Architecture
+  * Next.js Optimization
+* 🤝 Open to freelance & collaboration opportunities
 
 ---
 
 # 🚀 Tech Stack
 
-## 👨‍💻 Front-End Development
+<p align="center">
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=ts" height="50"/>
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-<img src="https://skillicons.dev/icons?i=redux" height="50"/>
-
-</p>
-
----
-
-## 🛠️ Tools & Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<img src="https://skillicons.dev/icons?i=figma" height="50"/>
-<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,firebase,git,github,vscode,figma,postman" />
 
 </p>
 
@@ -72,80 +51,97 @@ I build modern, scalable, and responsive web applications with clean UI and smoo
 
 # 🌟 Featured Projects
 
-## 🏥 Insta Health
-### Integrated Medical Platform
+## 🌍 Rehltna — Tourism & Travel Platform
 
-🔗 https://insta-health.net/
+Modern tourism booking platform with scalable architecture and SEO-focused pages.
 
-### Features:
-- Doctor Booking System
-- Home Medical Services
-- Medical Tourism
-- Online Pharmacy
-- Labs & Radiology Booking
-- Responsive Dashboard
-- API Integration
+### ✨ Highlights
 
----
+* Responsive UI/UX
+* Dynamic booking experience
+* SEO Optimization
+* Scalable Components Architecture
 
-## 🌍 Rehltna
-### Tourism & Travel Platform
+### 🛠️ Tech Stack
 
-🔗 https://rehltna.com/ar
+Next.js • Tailwind CSS • REST APIs
 
-### Highlights:
-- Responsive UI
-- Modern booking experience
-- Dynamic content sections
-- SEO-friendly pages
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://rehltna.com/ar)
 
 ---
 
-## ✈️ Rahal Egypt
-### Tourism Booking Platform
+## 🏥 Insta Health — Integrated Medical Platform
 
-🔗 https://rahal-egy.com/ar
+Complete healthcare ecosystem with booking systems and medical services.
 
-### Highlights:
-- Clean and modern interface
-- Mobile responsive layout
-- Optimized user experience
+### ✨ Features
 
----
+* Doctor Booking
+* Medical Tourism
+* Pharmacy System
+* Labs & Radiology
+* Dashboard Integration
 
-## 👨‍⚕️ Mohamed Talat
-### Medical Website
+### 🛠️ Tech Stack
 
-🔗 https://mohamedtalat.com/ar
+React.js • APIs • Responsive Dashboard
 
-### Highlights:
-- Professional medical presentation
-- Responsive design
-- Optimized layouts
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://insta-health.net/)
 
 ---
 
-## 🎓 WEMISC Academy
+## ✈️ Rahal Egypt — Tourism Platform
 
-🔗 https://academy.wemisc.net/ar
+Modern tourism platform focused on responsive design and smooth user experience.
 
-Educational platform with modern and scalable UI implementation.
+### 🛠️ Tech Stack
 
----
+Next.js • Tailwind CSS • Responsive Design
 
-## 🏢 WEMISC Agency
-
-🔗 https://agency.wemisc.net/ar
-
-Digital agency website with modern branding and responsive experience.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://rahal-egy.com/ar)
 
 ---
 
-## 💻 WEMISC IT
+## 👨‍⚕️ Mohamed Talat — Medical Website
 
-🔗 https://it.wemisc.net/ar
+Professional medical platform with modern layouts and responsive structure.
 
-Technology solutions platform with scalable front-end architecture.
+### 🛠️ Tech Stack
+
+Next.js • Tailwind CSS • SEO
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://mohamedtalat.com/ar)
+
+---
+
+# 🏢 WEMISC Ecosystem
+
+### Platforms Built:
+
+* 🎓 WEMISC Academy
+* 🏢 WEMISC Agency
+* 💻 WEMISC IT
+
+Modern scalable platforms with responsive and clean UI implementation.
+
+---
+
+# 🧠 Engineering Principles
+
+* Clean Architecture
+* Reusable Components
+* Performance Optimization
+* SEO-first Development
+* Scalable UI Systems
+
+---
+
+# 🤖 Exploring AI Integrations
+
+* AI-powered dashboards
+* Content generation workflows
+* Automation systems
+* Smart user experiences
 
 ---
 
@@ -153,9 +149,9 @@ Technology solutions platform with scalable front-end architecture.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BEMO2002&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEMO2002&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -165,7 +161,17 @@ Technology solutions platform with scalable front-end architecture.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=BEMO2002&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BEMO2002&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -175,7 +181,7 @@ Technology solutions platform with scalable front-end architecture.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/BEMO2002/BEMO2002/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -183,14 +189,16 @@ Technology solutions platform with scalable front-end architecture.
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://github.com/BEMO2002">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
+  
+
 <a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 </p>
@@ -199,4 +207,40 @@ Technology solutions platform with scalable front-end architecture.
 
 # 💡 Quote
 
-> “Great web experiences are built with attention to detail.”
+> “Great digital experiences are built with attention to detail.”
+
+---
+
+# 🐍 Snake Animation Setup
+
+Create this file:
+
+.github/workflows/snake.yml
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: BEMO2002
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
